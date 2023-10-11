@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+Jekoyu+Here)](https://git.io/typing-svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jekoyu&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
